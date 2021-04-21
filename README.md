@@ -1,3 +1,3 @@
 # chrome-extension-tutorial
 
-I am following along with Chrome's extension tutorial, and I am taking notes in my commits.
+I follow along with Chrome's extension tutorial, and take notes in my commits.
